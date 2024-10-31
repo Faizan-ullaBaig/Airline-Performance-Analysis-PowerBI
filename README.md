@@ -1,8 +1,6 @@
 # Airline-Performance-Analysis-PowerBI
 A Power BI project analyzing airline performance and passenger management.
 
-Airline Performance Analysis using Power BI
-
 **Introduction**
 This project is designed to analyze key aspects of airline operations, including flight scheduling, passenger management, and ticket bookings, with the goal of streamlining processes and improving management insights. By harnessing Power BI's analytical and visualization capabilities, this analysis will reveal operational bottlenecks, booking trends, and other data-driven insights that are essential for improving airline performance and customer satisfaction.
 
