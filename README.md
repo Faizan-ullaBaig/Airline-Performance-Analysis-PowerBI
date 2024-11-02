@@ -42,10 +42,9 @@ The primary objective of this project is to:
 - **Booking Trends**: Analysis of booking statuses reveals patterns and areas for improvement, guiding efforts to reduce cancellations or delays.
 - **Destination Patterns**: Popular destinations are analyzed, providing insights for route optimization and strategic growth.
 
-![Description of the Image](Count%20of%20booking%20status.png)
+![Ticket Booked](Ticket%20booked.png)
+![Slicer](Slicer.png)
+![Dashboard Image](Image1.png)
+![Decomposition Tree](Decomposition%20Tree.png)
+![Count of Booking Status](Count%20of%20booking%20status.png)
 
-![](Ticket%20booked.png)
-![](Slicer.png)
-![](Image1.png)
-
-![](Decomposition%20Tree.png)
