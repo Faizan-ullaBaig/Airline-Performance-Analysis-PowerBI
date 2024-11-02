@@ -41,3 +41,11 @@ The primary objective of this project is to:
 - **Passenger Distribution**: Visualizations highlight passenger volume across different airlines, helping in resource allocation and marketing decisions.
 - **Booking Trends**: Analysis of booking statuses reveals patterns and areas for improvement, guiding efforts to reduce cancellations or delays.
 - **Destination Patterns**: Popular destinations are analyzed, providing insights for route optimization and strategic growth.
+
+![Description of the Image](Screenshot%202024-11-02%20170821.png)
+
+![](Screenshot%202024-11-02%20170802.png)
+![](Screenshot%202024-11-02%20170751.png)
+![](Screenshot%202024-11-02%20170842.png)
+
+![**B**](Screenshot%202024-11-02%20170834.png)
